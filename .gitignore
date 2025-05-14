@@ -8,6 +8,8 @@ __pycache__/
 
 
 links.txt
+downloaded_audio_files/
+transcribed_texts/
 
 # Distribution / packaging
 .Python
